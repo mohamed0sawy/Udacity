@@ -1,13 +1,10 @@
 # Landing Page Project
 
-## Table of Contents
+In this project, I focused in using DOM to do some functionalities like :
+* there are sections in the page and I built a navigation bar that helps you to scroll smoothly
+to a particular section.
+* Also there is a "Add Section" button to create new sections in the page and add their links in the navigation bar.
 
-* [Instructions](#instructions)
+## link to Preview
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+https://mohamed0tarek.github.io/Udacity/landing-page/
