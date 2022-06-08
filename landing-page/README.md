@@ -5,6 +5,12 @@ In this project, I focused in using DOM to do some functionalities like :
 to a particular section.
 * Also there is a "Add Section" button to create new sections in the page and add their links in the navigation bar.
 
+## Technologies
+
+* HTML
+* CSS
+* JavaScript
+
 ## link to Preview
 
 https://mohamed0tarek.github.io/Udacity/landing-page/
