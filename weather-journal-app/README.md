@@ -10,7 +10,9 @@ show the country, temperature, min-and-max temperature, date and user feelings.
 In this project there will be server side in `server.js` file and the client side `website/app.js` file. Server listen in port 3000.
 
 ## How to work
-* Write localhost:3000 in the search bar of your browser
+* Download the project
+* open the project as live server
+* Write `localhost:3000` in the search bar of your browser
 * Enter the city name or zipCode and press the button to show the resutls
 
 ## Technologies
