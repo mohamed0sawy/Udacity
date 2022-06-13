@@ -4,6 +4,9 @@
 
 In this project, we relied on building server side and client side. This project is asynchronous web app that uses Web-API(OpenWeather) and user data to dynamically fetch data from OpneWeather api and use these data to update the UI to
 show the country, temperature, min-and-max temperature, date and user feelings. 
+#### NOTE 
+I have built an online version that does not need a local-server to work. If you interested you can check it out from here :
+https://github.com/mohamed0tarek/weather-journal-app--online-version-
 
 ## Instructions
 
