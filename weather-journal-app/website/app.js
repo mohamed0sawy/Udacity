@@ -88,7 +88,7 @@ const postProject = async (url = "", data = {}) => {
 let appendData = (data = {}) => {
 	document.querySelector(".entry").scrollIntoView({ behavior: "smooth" });
 	document.getElementById("name").innerHTML = data.name;
-	document.getElementById("fer").innerHTML = data.temp.toFixed(1) + `<span>F</span>`;
+	document.getElementById("fer").innerHTML = (data.temp).toFixed(1) + `<span>F</span>`;
 	document.getElementById("cel").innerHTML = ((data.temp - 32) * 0.5556).toFixed(1) + `<span>C</span>`;
 	document.getElementById("maxfer").innerHTML = data.maxtemp.toFixed(1) + `<span>F</span>`;
 	document.getElementById("maxcel").innerHTML = ((data.maxtemp - 32) * 0.5556).toFixed(1) + `<span>C</span>`;
