@@ -1,2 +1,2 @@
 # Udacity
-Udacity projects
+Udacity projects of frontend Course
