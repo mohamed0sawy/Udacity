@@ -6,7 +6,7 @@ In this project, we relied on building server side and client side. This project
 show the country, temperature, min-and-max temperature, date and user feelings. 
 #### NOTES 
 * I have built an online version that does not need a local-server to work. If you interested you can check it out from here :
-https://github.com/mohamed0tarek/weather-journal-app--online-version-
+https://github.com/mohamed0sawy/weather-journal-app--online-version-
 * Here also I deployed the project(Client-side and Server-side) on Heroku :
 https://weather-journal-app-00.herokuapp.com/
 
