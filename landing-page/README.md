@@ -14,4 +14,4 @@ to a particular section.
 
 ## link to Preview
 
-https://mohamed0tarek.github.io/Udacity/landing-page/
+https://mohamed0sawy.github.io/Udacity/landing-page/
